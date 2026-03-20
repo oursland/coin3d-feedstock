@@ -3,15 +3,15 @@ About coin3d-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/coin3d-feedstock/blob/main/LICENSE.txt)
 
-Home: https://bitbucket.org/Coin3D/coin/wiki/Home
+Home: https://github.com/coin3d/coin/wiki
 
 Package license: BSD-3-Clause
 
 Summary: Coin3D is a C++ high-level 3D graphics toolkit.
 
-Development: https://bitbucket.org/Coin3D/coin/wiki/Home
+Development: https://github.com/coin3d/coin
 
-Documentation: https://bitbucket.org/Coin3D/coin/wiki/Home
+Documentation: https://github.com/coin3d/coin/wiki/Documentation
 
 Coin3D is a high-level, retained-mode toolkit for effective 3D graphics development. It is API compatible with Open Inventor 2.1.
 
@@ -205,4 +205,3 @@ Feedstock Maintainers
 
 * [@looooo](https://github.com/looooo/)
 * [@oursland](https://github.com/oursland/)
-
